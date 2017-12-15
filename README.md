@@ -1,3 +1,9 @@
 # f1-3-c2p1-colmar-academy
 
-This a the capstone project for Codecademy of a fictional school called Colmar Academy.  I'm still not happy with it's responsiveness, but it'll do for now.
+This is the capstone project for Codecademy. The subject was to design a website for a fiction school, called Colmar Academy.
+
+It was a very challenging project as I am still learning new skills and abilities.
+
+I wanted to (and may in the near future) do something for tablet sizes, but with no wireframe given, I felt a bit hesitant to do so.  
+
+I'm still not impressed with it, but it will do for now. :-(
